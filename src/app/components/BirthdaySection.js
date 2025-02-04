@@ -1,3 +1,4 @@
+' use client';
 import React, { useEffect } from 'react';
 import Particles from 'react-particles-js';
 import gsap from 'gsap';
